@@ -1,6 +1,7 @@
 # TDS
 
 <br>
+
 ## 팀 소개
 > 안녕하세요😊
 > TDS(Three Developer Study), 개발자 3명의 스터디라는 이름으로 함께 Swift를 공부하고 있습니다.
@@ -9,6 +10,7 @@
 
 
 <br>
+
 ### 팀원 소개
 <div align="center">  
 
